@@ -1,0 +1,13 @@
+{
+  "position": 1000,
+  "window_start": 500,
+  "window_end": 1500,
+  "target_start": 900,
+  "target_length": 200,
+  "pairs_found": 1,
+  "left_primer": "CACCCTACTGGCACGAAGTT",
+  "right_primer": "TCCCGCAAAGTTGTAGGTCC",
+  "left_start": 523,
+  "right_end": 1139,
+  "product_size": 617
+}
